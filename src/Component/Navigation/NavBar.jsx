@@ -20,7 +20,9 @@ export const NavBar = () => {
           <div className="text-2xl md:text-3xl">
             <TbGridDots />
           </div>
+
           {/* <AllApps/> */}
+          
           <div className="bg-blue-400 p-2 text-sm rounded-sm text-black md:p-4 md:text-xl">
             Sign in
           </div>
